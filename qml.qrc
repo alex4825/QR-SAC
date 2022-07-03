@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AllPageHeader.qml</file>
+        <file>PageLogin.qml</file>
+        <file>PageNewAccount.qml</file>
+        <file>AllPageButton.qml</file>
+        <file>PageMigration.qml</file>
+        <file>PageDB.qml</file>
+        <file>DBrow.qml</file>
+        <file>PopupWindow.qml</file>
+        <file>ScannerOverlay.qml</file>
+        <file>ScannerPage.qml</file>
+        <file>Theme.qml</file>
+    </qresource>
+</RCC>
